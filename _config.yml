@@ -1,6 +1,5 @@
 name: Christian Robert Shockley
 favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.72822
 title: Christian Robert Shockley
 cta:
@@ -22,7 +21,7 @@ color:
     - '#8c9093'
     - '#87645a'
     - '#d39b81'
-  brandStrength: 0.4375
+  brandStrength: 0
   lightness: 0.9375
   saturation: 0.8125
   rhythmicContrast: 0.5
