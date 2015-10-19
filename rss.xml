@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Christian Robert Shockley]]></title>
         <description><![CDATA[Christian Robert Shockley]]></description>
         <link>http://christianrobertshockley.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 21:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 02:38:27 GMT</lastBuildDate>
         <atom:link href="http://christianrobertshockley.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[To Read]]></title>
@@ -20,13 +19,6 @@
             <link>http://christianrobertshockley.com/neighborhood-walk/index.html</link>
             <guid isPermaLink="false">4d175d0a-7e57-4c74-858c-49bda7bd2d48</guid>
             <pubDate>Mon, 12 Oct 2015 20:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Office & Self-Awareness: Learning to Choose Between Love and Delusion]]></title>
-            <description><![CDATA[<h1>The Office & Self-Awareness: Learning to Choose Between Love and Delusion</h1>]]></description>
-            <link>http://christianrobertshockley.com/the-office-and-self-awareness-learning-to-choose-between-love/index.html</link>
-            <guid isPermaLink="false">3f7239cf-430b-4ddb-a086-c4d63dd23249</guid>
-            <pubDate>Mon, 12 Oct 2015 20:05:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
