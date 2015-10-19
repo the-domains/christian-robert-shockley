@@ -1,8 +1,7 @@
 name: Christian Robert Shockley
 favicon: null
-layout_spectrum: 0.88889
-typography_spectrum: 0.33182
-title: Christian Robert Shockley
+layout_spectrum: null
+typography_spectrum: null
 cta:
   domain: null
   bucket: null
@@ -17,16 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#262628'
-    - '#e8dbc7'
-    - '#8c9093'
-    - '#87645a'
-    - '#d39b81'
+    - '#0f0f19'
+    - '#c02a22'
+    - '#717957'
+    - '#a4acae'
+    - '#3b68b7'
   brandStrength: 1
-  lightness: 0.9375
-  saturation: 0.8125
-  rhythmicContrast: 0.5
-purpose:
-  - name: shares
-    item: null
-    url: null
+  lightness: null
+  saturation: null
+  rhythmicContrast: null
+purpose: []
